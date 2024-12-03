@@ -1,0 +1,1 @@
+Proektot e navistina dobar, no mislam deka mi treba poveke vreme za da napravam funkcionalna aplikacija.

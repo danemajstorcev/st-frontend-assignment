@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    img{
+       width: 150px;
+    }
+    .search-and-nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    ul{
+        list-style: none;
+        display: flex;
+        font-size: x-large;
+       .nav-link{
+        text-decoration: none;
+        margin-right: 25px;
+        &:last-child{
+            margin-right: 0;
+           }
+       }
+      
+    }}
+}
